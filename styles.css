@@ -1,0 +1,93 @@
+body{
+    background-color: hsl(216, 12%, 8%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+.shvili1{
+    background-color: hsl(213, 19%, 18%);
+    width: 300px;
+    height: 300px;
+    padding: 9px;
+    align-items: center;
+    text-align: center;
+    gap: 5px;
+    border-radius: 15px;
+    border: none;
+}
+
+.shvili1 img{
+    background-color: hsl(217, 12%, 63%);
+    width: 60px;
+    height: 60px;
+    border: none;
+    border-radius: 50%;
+    margin-right: 239px;
+}
+
+.shvili1 h1{
+    color: hsl(0, 100%, 100%);
+    font-size: 25px;
+    margin-right: 80px;
+}
+
+.shvili1 p{
+    color: hsl(217, 12%, 63%);
+    font-size: 15px;
+}
+.btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border:none;
+    background-color: hsl(217, 12%, 63%);
+    margin-right: 13px;
+}
+.btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border:none;
+    background-color: hsl(217, 12%, 63%);
+    margin-right: 15px;
+}
+.btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border:none;
+    background-color: hsl(217, 12%, 63%);
+    margin-right: 15px;
+}
+.btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    background-color: hsl(217, 12%, 63%);
+    margin-right: 15px;
+}
+.btn{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border:none;
+    background-color: hsl(217, 12%, 63%);
+    margin-right: 15px;
+}
+.Submit{
+    width: 270px;
+    height: 35px;
+    margin-top: 8px;
+    background-color: hsl(25, 97%, 53%);
+    color: black;
+    border:none;
+    border-radius: 15px;
+    letter-spacing: 3px;
+    margin-top: 18px;
+}
+.hide{
+    display: none;
+}
